@@ -14,7 +14,7 @@ I'm a self-motivated learner currently building my foundation in web development
 ## 💻 Tech Stack
 
 - 🌐 *Frontend*: HTML5, CSS3 *(Practicing)* and Javascript *(Learning basics)*
-- 🐍 *Learning*: Python for scripting and backend
+- 🐍 *Learning*: Python and CPP
 - 🔧 *Tools*: Git, GitHub, VS Code
 - 📘 Interests: Open source, real-world problem solving, tech communities
 
